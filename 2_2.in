@@ -1,36 +1,36 @@
-Shanghaitech 51810 Ih 2
-S print_month
-G pass_month 5
-G pass_month 36
-S pass_month 29
-G pass_month -199
-G pass_year -2
-G print_year
-G pass_month -201
-S pass_day -1871
-S print_month
-G pass_day -310
-G print_year
-S pass_year -27
-S pass_day -4803
-G print_month
-G print_month
-S pass_month -62
-S pass_day -2310
-G pass_year -3
-S pass_year 21
+Shanghaitech 1 Ih 39
+G pass_month -86
 S pass_year -22
-S print_today
-S pass_year -12
-S pass_day 2425
-G pass_month -44
-S pass_year -8
-G pass_day -453
-S pass_month -169
+G pass_year -20
+G print_month
+S print_month
+S pass_month -241
+G print_month
+S pass_month -229
 G print_today
-S go_to 392791 Ihuman 39
-G pass_day 1078
-G pass_month 129
+S pass_year -3
+G go_to 851103 Sep 11
+G pass_day -1806
+G pass_month -236
+S pass_month -29
+S print_month
+G print_today
+G pass_month -94
+S pass_year 1
+S pass_year -9
+S pass_month -27
+G pass_month -121
+G pass_day 141
+G pass_year 1
+G pass_day -840
+S pass_year 18
+S pass_month -131
+S pass_month 47
+G print_today
+S print_month
+G pass_day 1035
+S pass_day -822
+G pass_month -170
 S print_today
 G print_today
 S print_month

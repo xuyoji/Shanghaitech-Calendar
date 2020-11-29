@@ -1,36 +1,36 @@
-Shanghaitech 591556 Slst 27
-S go_to 152414 Sist 25
-G pass_year 17
-G pass_year -18
-G pass_year -2
-G pass_day -3010
-G pass_month 41
-S pass_day 948
-G pass_year 12
-G pass_month -16
-G print_year
-G print_today
-G pass_day 3074
-G pass_day -3945
+Shanghaitech 593777 Ihuman 1
+S pass_year 30
 S print_year
+S pass_month 90
+G pass_month -183
+S pass_day -1191
 G print_month
-S pass_year -27
-G pass_month 248
-S pass_month -127
-S pass_day -4942
-S pass_day -4727
-G pass_month -42
-G pass_month -23
-G pass_day 1335
-G pass_day -1711
-G pass_day -622
-G pass_year -8
+G pass_day 2253
+S pass_month -125
+G print_today
+S pass_day 987
+G pass_day 4892
+S pass_month 215
+S pass_day -231
+G pass_year -2
+S pass_day 3019
+G print_today
+S pass_year -2
+S print_month
+G pass_month 7
+G print_year
+S pass_day 4441
 S print_today
-S pass_month -35
-G pass_year -24
-S pass_day 4759
+G pass_month 225
+S pass_year -19
+S pass_month 42
+S print_month
 G pass_month -182
-G pass_day -1549
+G print_month
+S pass_year 3
+G pass_year -9
+S print_year
+S pass_year 20
 S print_today
 G print_today
 S print_month
