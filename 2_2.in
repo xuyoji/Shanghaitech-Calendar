@@ -1,0 +1,39 @@
+Shanghaitech 51810 Ih 2
+S print_month
+G pass_month 5
+G pass_month 36
+S pass_month 29
+G pass_month -199
+G pass_year -2
+G print_year
+G pass_month -201
+S pass_day -1871
+S print_month
+G pass_day -310
+G print_year
+S pass_year -27
+S pass_day -4803
+G print_month
+G print_month
+S pass_month -62
+S pass_day -2310
+G pass_year -3
+S pass_year 21
+S pass_year -22
+S print_today
+S pass_year -12
+S pass_day 2425
+G pass_month -44
+S pass_year -8
+G pass_day -453
+S pass_month -169
+G print_today
+S go_to 392791 Ihuman 39
+G pass_day 1078
+G pass_month 129
+S print_today
+G print_today
+S print_month
+G print_month
+S print_year
+G print_year
