@@ -32,28 +32,28 @@ int main()
     while (!std::cin.eof()){
         if (f == "pass_day"){
             std::cin >> n;
-            G->pass_day(n) if calendar=="G" else S->pass_day(n);
+            if (calendar=="G") G->pass_day(n); else S->pass_day(n);
         }
         else if (f == "pass_month"){
             std::cin >> n;
-            G->pass_month(n) if calendar=="G" else S->pass_month(n);
+            if (calendar=="G") G->pass_month(n); else S->pass_month(n);
         }
         else if (f == "pass_year"){
             std::cin >> n;
-            G->pass_year(n) if calendar=="G" else S->pass_year(n);
+            if (calendar=="G") G->pass_year(n); else S->pass_year(n);
         }
         else if (f == "print_today"){
-            G->print_today() if calendar=="G" else S->print_today();
+            if (calendar=="G") G->print_today(); else S->print_today();
         }
         else if (f == "print_month"){
-            G->print_month() if calendar=="G" else S->print_month();
+            if (calendar=="G") G->print_month(); else S->print_month();
         }
         else if (f == "print_year"){
-            G->print_year() if calendar=="G" else S->print_year();
+            if (calendar=="G") G->print_year(); else S->print_year();
         }
         else if (f == "go_to"){
             std::cin >> year >> month >> day;
-            G->go_to(year, month, day) if calendar=="G" else S->go_to(year, month, day);
+            if (calendar=="G") G->go_to(year, month, day); else S->go_to(year, month, day);
         }
         calendar = "";
         f = "";
